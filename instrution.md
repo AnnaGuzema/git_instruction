@@ -32,7 +32,7 @@ git branch branch_name
 ```sh
 git branch -d branch_name
 ```
-Чтобы соединить две ветки, необходимо вернуться на ветку master и набрать команду:
+Для соединения двух веток, необходимо вернуться на ветку master и набрать команду:
 ```sh
 git merge branch_name
 ```
