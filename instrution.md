@@ -23,3 +23,7 @@
 ```sh
 git branch
 ```
+Чтобы создать новую ветку, необходимо набрать:
+```sh
+git branch branch_name
+```
