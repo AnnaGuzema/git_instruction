@@ -28,7 +28,7 @@ git branch
 ```sh
 git branch branch_name
 ```
-Чтобы удалить ненужную ветку, набираем команду:
+Для удаления ненужной ветки, набираем команду:
 ```sh
 git branch -d branch_name
 ```
