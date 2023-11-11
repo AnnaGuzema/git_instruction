@@ -36,3 +36,11 @@ git branch -d branch_name
 ```sh
 git merge branch_name
 ```
+
+### Новые команды:
+
+#### git clone
+```sh
+- создает копию удаленного репозитория по ссылке;
+```
+
